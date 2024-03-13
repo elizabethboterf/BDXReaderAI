@@ -1,0 +1,85 @@
+{
+    "claim_unique_reference": [
+        "claim reference", "claim number", "claim identifier",
+        "claim ID", "claim ref", "claim ref no",
+        "reference of claim", "claim code", "unique claim identifier",
+        "claim identification number", "claim_nbr"
+    ],
+    "current_claim_status": [
+        "claim status", "status of claim", "current status of claim",
+        "claim's status", "present claim status", "current status",
+        "status", "claim situation", "claim position", "ongoing claim status"
+    ],
+    "date_of_loss": [
+        "date of loss", "date of loss from", "date of loss (from)",
+        "date of loss (from) date", "loss date", "date loss occurred",
+        "occurrence date", "date of occurrence", "loss occurrence date",
+        "date when loss occurred", "accident date", "acc_date"
+    ],
+    "date_claim_opened": [
+        "date claim opened", "claim opened date", "claim open date",
+        "date of claim opening", "claim initiation date", "date claim initiated",
+        "opening claim date", "claim started date", "claim commencement date",
+        "date when claim opened", "date opened", "dt_open"
+    ],
+    "date_claim_closed": [
+        "date claim closed", "claim closed date", "claim close date",
+        "closing claim date", "claim end date", "date claim concluded",
+        "date of claim closure", "claim termination date", "claim finalized date",
+        "date when claim closed", "date closed", "dt_closed"
+    ],
+    "date_claim_reopened": [
+        "date claim reopened", "claim reopened date", "claim reopen date",
+        "claim resumption date", "date of claim reopening", "date when claim reopened",
+        "reopening claim date", "claim restart date", "claim reactivation date",
+        "reactivation date of claim", "date reopened", "dt_reopen"
+    ],
+    "date_of_loss_to": [
+        "date of loss to", "loss to date", "date to which loss occurred",
+        "date until loss", "loss until date", "end date of loss",
+        "loss end date", "final date of loss", "date of loss end",
+        "termination date of loss"
+    ],
+    "date_claim_made": [
+        "date claim first advised", "date claim made", "claim notification date",
+        "report date", "date claim reported", "claim report date",
+        "date of claim notification", "claim advice date", "date claim submitted",
+        "submission date of claim"
+    ],
+    "date_claim_denied": [
+        "date claim denied", "denial date", "claim rejection date",
+        "date of claim denial", "date when claim denied", "claim refusal date",
+        "date claim was refused", "claim denial date", "date claim rejected",
+        "date of claim rejection"
+    ],
+    "loss_description": [
+        "loss description", "description of loss", "details of loss",
+        "loss details", "loss narrative", "narrative of loss",
+        "description about loss", "detailing of loss", "loss synopsis",
+        "loss particulars", "accident description", "acc_description"
+    ],
+    "cause_of_loss_code": [
+        "cause of loss code", "loss code", "loss reason code",
+        "code for loss cause", "loss cause code", "code of loss reason",
+        "reason of loss code", "loss origin code", "code for cause of loss",
+        "loss causation code"
+    ],
+    "catastrophe_name": [
+        "catastrophe name", "name of catastrophe", "disaster name",
+        "name of disaster", "cataclysm name", "catastrophe identifier",
+        "identifier of catastrophe", "disaster identifier", "catastrophe designation",
+        "designation of catastrophe"
+    ],
+    "lloyds_catastrophe_code": [
+        "catastrophe code", "code of catastrophe", "disaster code",
+        "catastrophe identifier code", "code for catastrophe", "cataclysm code",
+        "catastrophe identification code", "code identifying catastrophe",
+        "Lloyds catastrophe identifier", "catastrophe classification code", "catastrophe_nbr"
+    ],
+    "loss_address": [
+        "loss address location", "location of loss address", "address where loss occurred",
+        "loss occurrence address", "address of loss", "location where loss happened",
+        "loss happening address", "address of loss occurrence", "loss site address",
+        "site of loss address", "accident location", "acc_location"
+    ]
+}
